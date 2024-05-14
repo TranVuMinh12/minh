@@ -1,0 +1,64 @@
+body{
+   background-color: rgb(238, 238, 93);
+   font-size: 20px;
+   text-align: center;
+}
+.dau{
+    font-size: 3.5em;
+    text-align: center;
+    margin-bottom: 30px;
+    
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.image-area{
+    background-image:url(img/bk.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.image-text{
+    font-size: 2em;
+    color: yellow;
+    background-color: rgb(186, 179, 179,0.25);
+  
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.nav.text.h2{
+    font-size: 1.2em;
+   text-align: center;
+}
+.nav.t1.p{
+    border-bottom: 20px;
+}
+.img-area1{
+    background-image:url(1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 500px;
+    padding-bottom: 500px;
+    margin-bottom: 30px;
+}
+.img-area2{
+    background-image:url(2.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 500px;
+    padding-bottom: 500px;
+    margin-bottom: 30px;
+}
+.img-area3{
+    background-image:url(3.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 500px;
+    padding-bottom: 500px;
+}
